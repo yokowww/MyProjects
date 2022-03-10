@@ -13,6 +13,9 @@ import javax.swing.Timer;
 
 import org.omg.Messaging.SyncScopeHelper;
 
+//This mode1 is similar to the Android Game I made years ago
+//Basically time counting down, click the tile before the 3 second timer hits 0, else Game Over!
+
 public class Mode1 extends JPanel {
 
 	public static JPanel canvas;
