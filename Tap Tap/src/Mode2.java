@@ -11,6 +11,8 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
+// Basically Piano Tiles mobile game
+
 public class Mode2 extends JPanel {		// Make this like "Don't tap the White Tiles"
 
 	public static JPanel canvas;
