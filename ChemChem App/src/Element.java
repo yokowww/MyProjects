@@ -30,10 +30,10 @@ public class Element {
 	public String getName() 			{	return name;				}
 	public String getSymbol() 			{	return symbol;				}
 	public String getState() 			{	return state;				}
-	public int getAtomicNumber() 		{	return atomicNumber;		}
+	public int getAtomicNumber() 			{	return atomicNumber;			}
 	public int getGroup() 				{	return group;				}
 	public int getPeriod() 				{	return period;				}
-	public int getOutermostElectrons() 	{	return outermostElectrons;	}
+	public int getOutermostElectrons() 		{	return outermostElectrons;		}
 	public double getWeight() 			{	return weight;				}
 	
 	
